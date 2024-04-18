@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonView">
+        <item name="android:layout_width">220dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">56dp</item>
+        <item name="android:background">@drawable/shape</item>
+        <item name="layout_constraintTop_toBottomOf">@id/radio_box_container</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+    </style>
+
+        <style name="ButtonView.Primary" parent="ButtonView">
+            <item name="android:textSize">@dimen/title</item>
+            <item name="android:textStyle">bold</item>
+            <item name="android:textColor">@color/textColor</item>
+        </style>
+
+    <style name="Text" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text</item>
+    </style>
+
+    <style name="Text.Primary">
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lesson 18</string>
+    <string name="title_main">authorization</string>
+    <string name="button_reg">Sign in</string>
+    <string name="helper_login">input login</string>
+    <string name="helper_password">input password</string>
+    <string name="check_box1">Do you agree to receive notifications?</string>
+    <string name="check_box2">Do you confirm cookies?</string>
+    <string name="question">What do you prefer?</string>
+    <string name="radio_button1">Sex</string>
+    <string name="radio_button2">Drugs</string>
+    <string name="radio_button3">Rock N Roll</string>
+    <string name="preference">Preference</string>
+    <string name="notifications">Notifications</string>
+    <string name="cookies">Cookies</string>
+
+
+    <string name="account_info">Account information</string>
+    <string name="user_login">plusminus@list.ru</string>
+    <string name="user_password">bravo23ds</string>
+    <string name="user_text_login">Login</string>
+    <string name="user_text_password">Password</string>
+
+
+
+    <string name="email_hint">Email address or phone number</string>
+    <string name="password_hint">Password</string>
+    <string name="error_login">The email address or mobile number you entered isn\'t connected to an account.</string>
+    <string name="incorrect_password">The password that you\'ve entered is incorrect.</string>
+
+</resources>
